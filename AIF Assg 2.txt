@@ -1,5 +1,5 @@
 
-Q.1 Java Program to Check Alphabet using ternary operator A is an alphabet
+Q.11 Java Program to Check Alphabet using ternary operator A is an alphabet
 
 import java.util.Scanner;
 public class Main
@@ -18,7 +18,7 @@ public class Main
 }
 
 
-Q.2 Java Program to Check Alphabet using isAlphabetic() Method is an alphabet
+Q.12 Java Program to Check Alphabet using isAlphabetic() Method is an alphabet
 
 import java.util.Scanner;
 public class Main
@@ -38,7 +38,7 @@ public class Main
 }
 
 
-Q.3 Sum of Natural Numbers using for loop
+Q.13 Sum of Natural Numbers using for loop
 
 import java.util.Scanner;
 public class Main
@@ -60,7 +60,7 @@ System.out.println("Sum of Natural Numbers is = " + sum);
 }
 
 
-Q.4 Sum of Natural Numbers using while loop
+Q.14 Sum of Natural Numbers using while loop
 
 import java.util.Scanner;
 public class Main
@@ -84,7 +84,7 @@ System.out.println("Sum of  Natural Numbers is = " + sum);
 }
 
 
-Q.5 Find Factorial of a number using for loop
+Q.15 Find Factorial of a number using for loop
 
 import java.util.Scanner;
 public class Main
@@ -103,7 +103,7 @@ public class Main
 }  
 
 
-Q.6 Find Factorial of a number using while loop
+Q.16 Find Factorial of a number using while loop
 
 import java.util.Scanner;
 public class Main
@@ -124,7 +124,7 @@ public class Main
 }  
 
 
-Q.7 Find Factorial of a number using BigInteger
+Q.17 Find Factorial of a number using BigInteger
 
 import java.util.Scanner;
 import java.math.BigInteger;
@@ -148,7 +148,7 @@ public class Main
 } 
 
 
-Q.8 Generate Multiplication Table using for loop
+Q.18 Generate Multiplication Table using for loop
 
 import java.util.Scanner;
 public class Main
@@ -165,7 +165,7 @@ public class Main
 }
 
 
-Q.9 Generate Multiplication Table using while loop
+Q.19 Generate Multiplication Table using while loop
 
 import java.util.Scanner;
 public class Main
@@ -184,7 +184,7 @@ public class Main
 } 
 
 
-Q.10 Display Fibonacci Series Using for Loop
+Q.20 Display Fibonacci Series Using for Loop
 
 import java.util.Scanner;
 public class Main
@@ -209,7 +209,7 @@ public class Main
 }
 
 
-Q.11 Display Fibonacci series using while loop
+Q.21 Display Fibonacci series using while loop
 
 import java.util.Scanner;
 public class Main
@@ -236,7 +236,7 @@ public class Main
 }
 
 
-Q.12 Display Fibonacci series up to a given number
+Q.22 Display Fibonacci series up to a given number
 
 import java.util.Scanner;
 public class Main
